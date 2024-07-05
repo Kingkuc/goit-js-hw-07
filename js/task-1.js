@@ -11,7 +11,7 @@ const numberOfCategories = categoryItems.length;
 console.log(`Liczba kategorii: ${numberOfCategories}`);
 
 // Iteracja przez każdy element li.item
-Array.from(categoryItems).forEach(category => {
+categoryItems.forEach(category => {
   // Znalezienie nagłówka h2 w bieżącym elemencie li.item
   const categoryName = category.querySelector('h2').textContent;
   
