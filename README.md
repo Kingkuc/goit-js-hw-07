@@ -1,1 +1,1 @@
-https://kingkuc.github.io/goit-js-hw-07/
+https://kingkuc.github.io/goit-js-hw-08/
